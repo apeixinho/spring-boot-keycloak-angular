@@ -1,0 +1,2 @@
+# Shell scripts run in Linux containers; CRLF breaks shebangs (exit 127, "No such file or directory")
+*.sh text eol=lf
