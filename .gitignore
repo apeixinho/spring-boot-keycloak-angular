@@ -1,8 +1,21 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,java,maven,angular,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,java,maven,angular,node
 
+### VisualStudioCode ###
+.vscode/
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
 ### Angular ###
-## Angular ##
 # compiled output
 dist/
 tmp/
